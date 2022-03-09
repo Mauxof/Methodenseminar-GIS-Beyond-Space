@@ -1,0 +1,21 @@
+﻿index,lemma,loc_frequency,fcode,country_code,country_name
+11,Italien,12,PCLI,ITA,Italy
+12,Iran,1,PCLI,IRN,Iran
+39,Deutschland,33,PCLI,DEU,Germany
+59,China,4,PCLI,CHN,China
+84,Spanien,3,PCLI,ESP,Spain
+96,Suedkorea,1,PCLI,KOR,South Korea
+103,Japan,1,PCLI,JPN,Japan
+125,USA,8,PCLI,USA,United States of America
+129,Haiti,1,PCLI,HTI,Haiti
+130,Irak,1,PCLI,IRQ,Iraq
+160,Großbritannien,8,PCLI,GBR,United Kingdom
+197,Schweiz,5,PCLI,CHE,Switzerland
+271,Rußland,2,PCLI,RUS,Russia
+330,Brasilien,4,PCLI,BRA,Brazil
+364,Kroatien,1,PCLI,HRV,Croatia
+371,Frankreich,7,PCLI,FRA,France
+470,Belarus,3,PCLI,BLR,Belarus
+531,Schweden,1,PCLI,SWE,Sweden
+532,Saudi-Arabien,1,PCLI,SAU,Saudi Arabia
+533,Suedafrika,1,PCLI,ZAF,South Africa
